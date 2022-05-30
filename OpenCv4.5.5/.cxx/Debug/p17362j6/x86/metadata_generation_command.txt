@@ -1,0 +1,24 @@
+                    Executable : D:\Application\Android_SDK\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HC:\Users\Akarsh\Downloads\FaceRecognationNew-master\OpenCv4.5.5\libcxx_helper
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=21
+-DANDROID_PLATFORM=android-21
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=D:\Application\Android_SDK\ndk\21.4.7075529
+-DCMAKE_ANDROID_NDK=D:\Application\Android_SDK\ndk\21.4.7075529
+-DCMAKE_TOOLCHAIN_FILE=D:\Application\Android_SDK\ndk\21.4.7075529\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=D:\Application\Android_SDK\cmake\3.10.2.4988404\bin\ninja.exe
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\Akarsh\Downloads\FaceRecognationNew-master\OpenCv4.5.5\build\intermediates\cxx\Debug\p17362j6\obj\x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=C:\Users\Akarsh\Downloads\FaceRecognationNew-master\OpenCv4.5.5\build\intermediates\cxx\Debug\p17362j6\obj\x86
+-DCMAKE_BUILD_TYPE=Debug
+-BC:\Users\Akarsh\Downloads\FaceRecognationNew-master\OpenCv4.5.5\.cxx\Debug\p17362j6\x86
+-GNinja
+-DANDROID_STL=c++_shared
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2
