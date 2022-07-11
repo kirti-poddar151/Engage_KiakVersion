@@ -2,9 +2,6 @@ package engage.kirti.Kiak;
 
 import android.os.Bundle;
 
-/**
- * Created by kodetr on 25/12/2017.
- */
 import android.app.Activity;
 import android.content.Context;
 import android.graphics.Bitmap;
